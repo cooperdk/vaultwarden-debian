@@ -1,4 +1,4 @@
-# Binaries built using vaultwarden debian package helper (https://github.com/greizgh/vaultwarden-debian)
+# Binaries built using vaultwarden debian package helper
 
 Released as debian packages here to facilitate easy installation for those who prefer this.
 
